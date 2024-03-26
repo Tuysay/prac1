@@ -1,0 +1,12 @@
+{
+    "main_url": "https://dev.profteam.su/registration",
+    "login": "eggir",
+    "nlogin": "eggi",
+    "rus_login": "Миша",
+    "identy": "egg ir",
+    "email": "misha@mail.ru",
+    "wrong_email": "@",
+    "password": "Test123",
+    "wrong_pass": "test123"
+    
+  }
